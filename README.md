@@ -128,15 +128,5 @@ Explored relation between **Rating** and other features:
 - Jupyter Notebook  
 
 ---
-
-## 📂 Files in Repository
-- `googleplaystore.csv` – Dataset  
-- `app_rating_prediction.ipynb` – Notebook with analysis, preprocessing, and model  
-
 ---
-
-## 🔗 Next Steps
-- Experiment with advanced regression models (Random Forest, XGBoost)  
-- Feature engineering for better prediction accuracy  
-- Deploy predictive model as a web app for app rating estimation  
 
